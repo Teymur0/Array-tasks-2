@@ -47,26 +47,18 @@
 
 #region ARRAY ELEMNT DUPLICATION
 
-//int[] arr = { 1, 2, 3, 5,5 6 };
-//int duplicatedEl=0;
-//bool isDuplicated=false;
+//int[] arr = { 1, 2, 3, 5, 5 ,6,6 };
 
-//for (int i = 0; i < arr.Length-1; i++)
+
+//for (int i = 0; i < arr.Length - 1; i++)
 //{
 
-//    if (arr[i] == arr[i+1])
+//    if (arr[i] == arr[i + 1])
 //    {
-//        duplicatedEl = arr[i];
-//        isDuplicated = true;
+      
+//        Console.Write(arr[i] + " ");
 //    }
 //}
-//if (isDuplicated)
-//{
-//    Console.WriteLine(duplicatedEl);
-//}
-//else
-//{
-//    Console.WriteLine("No Duplications");
-//}
+
 
 #endregion
